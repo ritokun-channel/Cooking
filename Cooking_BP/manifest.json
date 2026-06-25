@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Cooking",
+		"description": "Cooking Behavior Pack",
+		"uuid": "28f37ea8-3207-b461-2497-6a57c9d73b5e",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 20, 0]
+	},
+	"metadata": {
+		"authors": ["りとくん"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.2.4"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "c5b39360-c321-2dd9-53fb-1c9c91f4f3b3",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "8a77da2c-0217-f6e4-f7ed-1b39b2b6a0c2",
+			"version": [1, 0, 0]
+		}
+	]
+}
