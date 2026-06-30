@@ -2,7 +2,7 @@
 	"format_version": "1.20.50",
 	"minecraft:item": {
 		"description": {
-			"identifier": "cooking:chicken_leg",
+			"identifier": "ritocooking:chicken_leg",
 			"menu_category": {
 				"category": "nature",
 				"group": "itemGroup.name.rawFood"
